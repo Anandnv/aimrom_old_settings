@@ -83,11 +83,14 @@
 	
 <string name="main_27">Manik Chathli</string>
 <string name="main27_description">Nexus 5X (Bullhead)</string>
-	
+
 <string name="main_28">SoUnd001</string>
 <string name="main28_description">Samsung Galaxy J5</string>
 
 <string name="main_29">Aryan Kedare (Devil)</string>
 <string name="main29_description">Lenovo A7000-a (aio_row)</string>
+
+<string name="main_30">Mihir Chathli (coolmihir)</string>
+<string name="main30_description">Redmi Note 3 SD (kenzo)</string>
 	
 </resources>
